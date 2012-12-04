@@ -15,7 +15,7 @@
    Alternately, this acknowledgement may appear in the software itself,
    if and wherever such third-party acknowledgements normally appear.
 
-   The names "Spring", "Spring Framework", and "Spring Web Flow" must
+   The names "Spring", "Spring Framework", and "Springs Web Flow" must
    not be used to endorse or promote products derived from this
    software without prior written permission. For written permission,
    please contact rod.johnson@interface21.com or juergen.hoeller@interface21.com.
